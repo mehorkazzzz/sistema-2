@@ -1,0 +1,18 @@
+
+h1 {
+    color: blue;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-left: 15px;
+}
+
+.botao-excluir {
+    background-color: rgb(198, 225, 226);
+    border-radius: 15%;
+
+}
